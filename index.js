@@ -34,6 +34,7 @@ const client = new Client({
   puppeteer: {
     headless: true,
     args: ['--no-sandbox', '--disable-setuid-sandbox'],
+    executablePath: 'C:\\Program Files (x86)\\Microsoft\\Edge\\Application\\msedge.exe',
   },
 });
 
@@ -125,9 +126,9 @@ function buildMessage(emp) {
     ``,
     `👤 *Employee Details*`,
     `Name        : ${emp.NAME}`,
-    `ID          : ${emp.EMP_CODE}`,
-    `ID          : ${emp.MOBILE}`,
-    `ID          : ${emp.Message}`,
+    `Code          : ${emp.EMP_CODE}`,
+    `Mobile No          : ${emp.MOBILE}`,
+    `Message          : ${emp.Message}`,
 
     ``,
 
