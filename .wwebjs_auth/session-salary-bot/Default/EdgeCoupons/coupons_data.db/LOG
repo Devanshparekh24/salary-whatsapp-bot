@@ -1,6 +1,6 @@
-2026/05/26-12:44:38.199 6244 Reusing MANIFEST D:\Devansh\BOT\salary-whatsapp-bot\.wwebjs_auth\session-salary-bot\Default\EdgeCoupons/coupons_data.db/MANIFEST-000001
-2026/05/26-12:44:38.200 6244 Recovering log #4
-2026/05/26-12:44:38.200 6244 Reusing old log D:\Devansh\BOT\salary-whatsapp-bot\.wwebjs_auth\session-salary-bot\Default\EdgeCoupons/coupons_data.db/000004.log 
-2026/05/26-12:44:38.260 47c Level-0 table #8: started
-2026/05/26-12:44:38.266 47c Level-0 table #8: 682560 bytes OK
-2026/05/26-12:44:38.272 47c Delete type=0 #4
+2026/05/26-12:53:34.795 471c Reusing MANIFEST D:\Devansh\BOT\salary-whatsapp-bot\.wwebjs_auth\session-salary-bot\Default\EdgeCoupons/coupons_data.db/MANIFEST-000001
+2026/05/26-12:53:34.797 471c Recovering log #7
+2026/05/26-12:53:34.798 471c Reusing old log D:\Devansh\BOT\salary-whatsapp-bot\.wwebjs_auth\session-salary-bot\Default\EdgeCoupons/coupons_data.db/000007.log 
+2026/05/26-12:53:34.819 2fa4 Level-0 table #11: started
+2026/05/26-12:53:34.829 2fa4 Level-0 table #11: 682560 bytes OK
+2026/05/26-12:53:34.835 2fa4 Delete type=0 #7

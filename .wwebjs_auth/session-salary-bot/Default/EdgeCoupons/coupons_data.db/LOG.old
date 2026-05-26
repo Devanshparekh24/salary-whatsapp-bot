@@ -1,5 +1,6 @@
-2026/05/26-12:43:52.528 4410 Creating DB D:\Devansh\BOT\salary-whatsapp-bot\.wwebjs_auth\session-salary-bot\Default\EdgeCoupons/coupons_data.db since it was missing.
-2026/05/26-12:43:52.544 4410 Reusing MANIFEST D:\Devansh\BOT\salary-whatsapp-bot\.wwebjs_auth\session-salary-bot\Default\EdgeCoupons/coupons_data.db/MANIFEST-000001
-2026/05/26-12:43:54.454 52e4 Level-0 table #5: started
-2026/05/26-12:43:54.460 52e4 Level-0 table #5: 682457 bytes OK
-2026/05/26-12:43:54.466 52e4 Delete type=0 #3
+2026/05/26-12:44:38.199 6244 Reusing MANIFEST D:\Devansh\BOT\salary-whatsapp-bot\.wwebjs_auth\session-salary-bot\Default\EdgeCoupons/coupons_data.db/MANIFEST-000001
+2026/05/26-12:44:38.200 6244 Recovering log #4
+2026/05/26-12:44:38.200 6244 Reusing old log D:\Devansh\BOT\salary-whatsapp-bot\.wwebjs_auth\session-salary-bot\Default\EdgeCoupons/coupons_data.db/000004.log 
+2026/05/26-12:44:38.260 47c Level-0 table #8: started
+2026/05/26-12:44:38.266 47c Level-0 table #8: 682560 bytes OK
+2026/05/26-12:44:38.272 47c Delete type=0 #4

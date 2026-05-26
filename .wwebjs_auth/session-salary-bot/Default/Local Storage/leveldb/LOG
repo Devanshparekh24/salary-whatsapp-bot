@@ -1,3 +1,5 @@
-2026/05/26-12:44:33.968 62c4 Reusing MANIFEST D:\Devansh\BOT\salary-whatsapp-bot\.wwebjs_auth\session-salary-bot\Default\Local Storage\leveldb/MANIFEST-000001
-2026/05/26-12:44:33.974 62c4 Recovering log #4
-2026/05/26-12:44:33.975 62c4 Reusing old log D:\Devansh\BOT\salary-whatsapp-bot\.wwebjs_auth\session-salary-bot\Default\Local Storage\leveldb/000004.log 
+2026/05/26-12:53:31.539 5ba8 Reusing MANIFEST D:\Devansh\BOT\salary-whatsapp-bot\.wwebjs_auth\session-salary-bot\Default\Local Storage\leveldb/MANIFEST-000001
+2026/05/26-12:53:31.544 5ba8 Recovering log #4
+2026/05/26-12:53:31.545 5ba8 Level-0 table #6: started
+2026/05/26-12:53:31.550 5ba8 Level-0 table #6: 20384 bytes OK
+2026/05/26-12:53:31.557 5ba8 Delete type=0 #4
